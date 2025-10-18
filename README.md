@@ -19,5 +19,5 @@ You'll probably find me out on a long-distance run! 👟
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## Contact Me
-- Connect with me on [LinkedIn](www.linkedin.com/in/agnes-noris)
+- Connect with me on [LinkedIn](www.linkedin.com/in/agnes-noris](https://www.linkedin.com/in/agnes-noris))
 - Send me an [email](mailto:agnes5078@gmail.com)
