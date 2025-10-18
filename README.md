@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-![](header.jpg)
+![](header.png)
 <!--
 **tamagoyaki03/tamagoyaki03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
